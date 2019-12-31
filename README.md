@@ -1,4 +1,7 @@
-# Lincerely Tools
+# Tools
+
+### Formulae
+ - lite - A lightweight text editor written in Lua (https://github.com/rxi/lite)
 
 ## How do I install these formulae?
 `brew install lincerely/tools/<formula>`
