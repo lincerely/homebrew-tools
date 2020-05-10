@@ -1,9 +1,9 @@
 class Lite < Formula
-  version "1.02"
+  version "1.03"
   desc "A lightweight text editor written in Lua"
   homepage "https://github.com/rxi/lite"
   url "#{homepage}/archive/v#{version}.tar.gz"
-  sha256 "441068b0f0f6bd0ca42cf03e3c2197b954bd6376595b986ead70562d7b7c9141"
+  sha256 "aea78d60683c615bae5cbe4530d3eea6f658d07ff6952d15748df27d2d944df0"
   head "https://github.com/rxi/lite.git"
 
   depends_on "sdl2"
