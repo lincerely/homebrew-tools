@@ -9,7 +9,7 @@ class Lite < Formula
   depends_on "sdl2"
 
   def install
-    system "/usr/bin/python", "build.py"
+    system "/bin/bash build.sh"
     libexec.install Dir["*"]
     bin.write_exec_script (libexec/"lite")
   end
