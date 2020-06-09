@@ -3,6 +3,8 @@
 ### Formulae
  - lite - A lightweight text editor written in Lua (https://github.com/rxi/lite)
  - inklecate - Commandline interpreter for inkle's open source scripting language for writing interactive narrative
+ - hugo-unix - Hugo command-line compiler, debugger and interpreter (https://www.generalcoffee.com/hugo)
+
 
 ## How do I install these formulae?
 `brew install lincerely/tools/<formula>`
