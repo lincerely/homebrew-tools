@@ -4,6 +4,7 @@
  - lite - A lightweight text editor written in Lua (https://github.com/rxi/lite)
  - inklecate - Commandline interpreter for inkle's open source scripting language for writing interactive narrative
  - hugo-unix - Hugo command-line compiler, debugger and interpreter (https://www.generalcoffee.com/hugo)
+ - sent - A simple plaintext presentation tool (need X11)
 
 
 ## How do I install these formulae?
