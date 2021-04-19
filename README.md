@@ -5,7 +5,7 @@
  - inklecate - Commandline interpreter for inkle's open source scripting language for writing interactive narrative
  - hugo-unix - Hugo command-line compiler, debugger and interpreter (https://www.generalcoffee.com/hugo)
  - sent - A simple plaintext presentation tool (need X11)
-
+ - boohu - Break Out Of Hareka's Underground (Boohu) is a turn-based coffee-break roguelike game with a heavy focus on tactical positioning mechanisms (https://download.tuxfamily.org/boohu/index.html)
 
 ## How do I install these formulae?
 `brew install lincerely/tools/<formula>`
