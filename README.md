@@ -7,6 +7,7 @@
  - sent - A simple plaintext presentation tool (need X11)
  - boohu - Break Out Of Hareka's Underground (Boohu) is a turn-based coffee-break roguelike game with a heavy focus on tactical positioning mechanisms (https://download.tuxfamily.org/boohu/index.html)
  - Harmonist - A stealth coffee-break roguelike game
+ - Kilo - A text editor in less than 1000 LOC with syntax highlight and search
 
 ### Casks
  - AnimeEffects - A 2D keyframe animation tool based on deformation of polygon meshes (http://animeeffects.org/en/)
