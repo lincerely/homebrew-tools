@@ -12,6 +12,7 @@
 
 ### Casks
  - AnimeEffects - A 2D keyframe animation tool based on deformation of polygon meshes (http://animeeffects.org/en/)
+ - webpquicklook - Mac OS X QuickLook plugin for WebP image files (https://github.com/lincerely/WebPQuickLook)
 
 ## How do I install these formulae?
 `brew install lincerely/tools/<formula>`
