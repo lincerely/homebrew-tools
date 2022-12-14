@@ -1,4 +1,4 @@
-class RpgmakerMvDecrypt < Formula
+class RpgmakerMvDecrypter < Formula
   version "0.4.1"
   desc "Decrypt build-in encrypted files from RPG Maker MV or MZ"
   homepage "https://github.com/Petschko/Java-RPG-Maker-MV-Decrypter"
@@ -7,10 +7,10 @@ class RpgmakerMvDecrypt < Formula
 
   def install
     libexec.install "RPG.Maker.MV.Decrypter_0.4.1.jar"
-    bin.write_jar_script libexec/"RPG.Maker.MV.Decrypter_0.4.1.jar", "rpgmakerDecrypt", java_version: "1.8"
+    bin.write_jar_script libexec/"RPG.Maker.MV.Decrypter_0.4.1.jar", "rpgmakerDecrypter", java_version: "1.8"
   end
 
   test do
-    system bin/"rpgmakerDecrypt", "help"
+    system bin/"rpgmakerDecrypter", "help"
   end
 end
