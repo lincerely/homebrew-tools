@@ -9,7 +9,6 @@
  - Harmonist - A stealth coffee-break roguelike game
  - Kilo - A text editor in less than 1000 LOC with syntax highlight and search
  - Wordle - A shameless commandline clone of the OG wordle https://www.powerlanguage.co.uk/wordle/ by https://twitter.com/powerlanguish this time in python for playing on the commandline, by hugh (https://twitter.com/33asr) with a little obfuscation so as to not spoil the fun too much.
- - rpgmaker-mv-decrypter - Decrypt build-in encrypted files from RPG Maker MV or MZ (https://github.com/Petschko/Java-RPG-Maker-MV-Decrypter)
 
 ### Casks
  - AnimeEffects - A 2D keyframe animation tool based on deformation of polygon meshes (http://animeeffects.org/en/)
